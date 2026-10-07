@@ -1,7 +1,7 @@
 # Weather Patterns and Malaria Incidence in Nigeria
 
 **Author:** Dorathy Ugwuoke  
-**Course:** Data Analysis and Visualization (3MTT NextGen)
+**Course:** Data Analysis and Visualization
 
 ## Project Overview
 
@@ -82,13 +82,13 @@ These results describe associations in the analyzed data and should not be inter
 
 The project visualization highlights the strong positive correlation between temperature and malaria cases in Niger State.
 
-![Temperature vs Malaria](visuals/temperature_vs_malaria.png)
+![Temperature vs Malaria](https://drive.google.com/file/d/1NP2WPCeHVQWJw6iJmmVFGtbto7f5s7cL/view?usp=sharing)
 
 ### 2. Humidity vs Malaria — Kaduna
 
 The second key visualization highlights the relationship between humidity and malaria incidence in Kaduna.
 
-![Humidity vs Malaria](visuals/kaduna_humidity_vs_malaria.png)
+![Humidity vs Malaria](https://drive.google.com/file/d/1eAQMOOveJ6W4jQT4b73sGITmG8DaLi5W/view?usp=sharing)
 
 > Add the final chart images to the `visuals` folder using the filenames above.
 
@@ -118,19 +118,7 @@ This project shows that the relationship between weather variables and malaria i
 
 The findings demonstrate how data analysis and visualization can help uncover patterns that may be useful for future malaria risk prediction and public health planning.
 
-## Project Files
 
-```text
-weather-malaria-nigeria/
-├── README.md
-├── data/
-│   └── malaria_weather_data.csv
-├── analysis/
-│   └── correlation_summary.csv
-├── visuals/
-│   ├── temperature_vs_malaria.png
-│   └── kaduna_humidity_vs_malaria.png
-└── presentation/
-    └── project_presentation.pdf
-```
+## Project Demo
+[Watch the Demo Video] (https://drive.google.com/file/d/1j84TOokET1HQ0gmubnCndzweO9Dk7BgX/view?usp=sharing)
 
