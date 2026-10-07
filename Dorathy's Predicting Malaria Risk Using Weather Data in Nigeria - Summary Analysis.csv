@@ -1,0 +1,59 @@
+Summary Analysis,,,,,Malaria Correlation Summary – Insights,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+State,"Malaria vs 
+Temperature","Malaria vs 
+Rainfall","Malaria vs 
+Humidity",,State,Temp Corr,Rainfall Corr,Humidity Corr,Key Insight,,Key Notes:,,,,,,,,
+Kogi,-0.4742479132,-0.264892637,0.08256365506,,Kogi,-0.474,-0.265,0.083,"Moderate negative correlation with 
+temperature; humidity minimal influence.",,🟥 Red → Strong negative correlation,,,,,,,,
+FCT,-0.02155541365,-0.004018376354,0.460984201,,FCT,-0.022,-0.004,0.461,"Malaria cases moderately influenced
+ by humidity; temperature and rainfall weak.",,⬜ White → No/weak correlation (≈ 0),,,,,,,,
+Niger,0.7747883506,-0.2199039674,0.1683150789,,Niger,0.775,-0.22,0.168,"Very strong positive correlation with 
+temperature; malaria increases in hotter 
+periods.",,🟩 Green → Strong positive correlation,,,,,,,,
+Kaduna,-0.06336087987,-0.4002749477,0.5511706633,,Kaduna,-0.064,-0.4,0.551,"Strong positive correlation with humidity; 
+malaria risk rises during humid periods.",,,,,,,,,,
+Nasarawa,0.1104570947,-0.05549221482,0.1040010591,,Nasarawa,0.11,-0.055,0.104,"Weak correlations overall; 
+no strong weather predictor identified.",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,"The analysis reveals that humidity is the most consistently influential 
+weather variable affecting malaria incidence across several states, 
+particularly in Kaduna and FCT where moderate positive correlations 
+were observed.
+
+Temperature shows a strong and significant relationship with malaria 
+cases in Niger State (0.775), indicating that higher temperatures are 
+associated with increased malaria incidence in that region.
+
+In contrast, rainfall demonstrates weak and inconsistent correlations 
+across most states, suggesting a limited direct impact on 
+malaria incidence.",,,,,,,,,,,,,,,,,,
+,,,,,,,"This chart shows a strong positive relationship 
+between tempreture and malaria cases in Niger State.",,,,,"Here, humidity shows a strong 
+influence on malaria incidence in Kaduna",,,,,,,"Rainfall demonstrates weak and inconsistent 
+correlations across the selected states, suggesting 
+that its impact on malaria transmission varies and 
+may depend on other environmental factors."
