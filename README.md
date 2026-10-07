@@ -1,6 +1,6 @@
 # Weather Patterns and Malaria Incidence in Nigeria
 
-**Author:** Dorathy Ugwuoke  
+**Author:** Dorathy Chinenye Ugwuoke  
 **Course:** Data Analysis and Visualization
 
 ## Project Overview
@@ -90,13 +90,12 @@ The second key visualization highlights the relationship between humidity and ma
 
 ![Humidity vs Malaria](https://drive.google.com/file/d/1eAQMOOveJ6W4jQT4b73sGITmG8DaLi5W/view?usp=sharing)
 
-> Add the final chart images to the `visuals` folder using the filenames above.
 
 ## Streamlit Interface
 
 I collaborated with a UI/UX expert to design the interface for how the project could be presented as an application.
 
-**Demo:** Add your Streamlit/demo link here.
+**Demo:** (https://kwaw-ebn.github.io/malaria-dashboard-frontend/)
 
 ## Potential Impact
 
@@ -121,4 +120,9 @@ The findings demonstrate how data analysis and visualization can help uncover pa
 
 ## Project Demo
 [Watch the Demo Video] (https://drive.google.com/file/d/1j84TOokET1HQ0gmubnCndzweO9Dk7BgX/view?usp=sharing)
+
+## Project Deliverables 
+(https://drive.google.com/drive/folders/1o7Vj-DrZPSXNvexQDGP1-vnld5M33S5L?usp=sharing)
+
+
 
